@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "346263770277",
+    "firebase_url": "https://easy-storage-68b10.firebaseio.com",
+    "project_id": "easy-storage-68b10",
+    "storage_bucket": "easy-storage-68b10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346263770277:android:34d6fc31219b99ad",
+        "android_client_info": {
+          "package_name": "com.mad.easystorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346263770277-cj3t3bi7e41o4ae8obot39uajia1kdet.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mad.easystorage",
+            "certificate_hash": "24B71FB2893F14BEE4E396001FD53F43F56EC809"
+          }
+        },
+        {
+          "client_id": "346263770277-8lptcafcur1sio5cumoqs13pu1id6qdu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC83bx9wfpVgQf0Pa4i5eLlA6nZz9nR4Ek"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346263770277-8lptcafcur1sio5cumoqs13pu1id6qdu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

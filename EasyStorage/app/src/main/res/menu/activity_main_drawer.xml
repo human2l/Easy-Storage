@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:id="@+id/g1"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_fragment_my_storage"
+            android:icon="@drawable/my_storage"
+            android:title="@string/my_storage" />
+        <item
+            android:id="@+id/nav_fragment_add_new_cargo"
+            android:icon="@drawable/add_new_item"
+            android:title="@string/add_new_item" />
+        <item
+            android:id="@+id/nav_fragment_storage_overview"
+            android:icon="@drawable/storage_overview"
+            android:title="@string/storage_overview" />
+
+    </group>
+    <group
+        android:id="@+id/g2"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_fragment_warehousing"
+            android:icon="@drawable/warehousing"
+            android:title="@string/warehousing" />
+        <item
+            android:id="@+id/nav_fragment_delivery"
+            android:icon="@drawable/delivery"
+            android:title="@string/delivery" />
+    </group>
+
+    <group
+        android:id="@+id/g3"
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_fragment_logout"
+            android:icon="@drawable/logout"
+            android:title="@string/log_out" />
+    </group>
+
+</menu>

@@ -1,0 +1,10 @@
+{
+  "example_userId" : {
+    "example_cargoId" : {
+      "name" : "cargo_name",
+      "price" : "cargo_price",
+      "amount" : "cargo_amount",
+      "description" : "cargo_description"
+    }
+  }
+}
